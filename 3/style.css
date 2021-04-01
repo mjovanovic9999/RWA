@@ -1,0 +1,16 @@
+.kocka{
+    border: solid black  2px;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+
+.kontejner{
+    display: flex;
+    margin: 2px;
+    flex-wrap: wrap;
+    background-color: beige;
+    height: auto;
+    min-height: 105px;
+}
+
