@@ -43,7 +43,7 @@ zip(
       return ob2;
     })
   ),
-  interval(500)
+  interval(1)
 ).subscribe((x) => {
   console.log(x);
 });
