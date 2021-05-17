@@ -16,7 +16,7 @@ interface Db {
 const parametar = document.createElement("input");
 parametar.type = "number";
 parametar.min = "0";
-parametar.max = "7";
+parametar.max = "5";
 parametar.value = "0";
 document.body.append(parametar);
 
