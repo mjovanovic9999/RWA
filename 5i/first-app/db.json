@@ -1,0 +1,54 @@
+{
+  "hotel": [
+    {
+      "id": "0",
+      "name": "Metropol Palace",
+      "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251002386.jpg?k=078a32385c55554bf32d384dae9a275289a7738655dc12dfd8f803166baa7cc0&o=&hp=1",
+      "description": "Metropol Palace, a Luxury Collection Hotel, Belgrade features elegantly decorated accommodations with free WiFi, 1 rooftop restaurant and a lobby bar, just 400 m from the heart of Belgrade. It was renovated in 2012 and has a spa area with a 23 m pool.",
+      "price": "9",
+      "rate": "8",
+      "comment": [
+        {
+          "username": "Tom",
+          "comm": "dffffffwwwwwwwwwwwwwwwwcwwwwwwwwwwww  wwwwwwwwwwwwwwwwwwwwwww",
+          "vote": 1
+        },
+        { "username": "Toma", "comm": "Sve naj", "vote": "-1" },
+        { "username": "Mika", "comm": "TTTT     TTTTT", "vote": "-1" },
+        { "username": "Pera", "comm": "TTTTTTTTT", "vote": "1" },
+        { "username": "Laza", "comm": "TTTTTTTTT", "vote": "1" },
+        { "username": "Djole", "comm": "TTTTTTTTT", "vote": "1" }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Hotel N",
+      "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292149882.jpg?k=427dba42f6580ddbb5a765eb19d9a87f1a42319dda349902c1faf7a0f22132dc&o=&hp=1",
+      "description": "Set just a 10-minute drive from the centre of Belgrade, Hotel N features a bar and free WiFi. The hotel's Atrium Restaurant serves local delicacies, and also offers halal dishes.All rooms include a TV with cable channels, as well as a private bathroom. Some rooms include a seating area where you can relax.You can enjoy the aperitif bar behind the reception area with coffee while reading the papers and listening to quiet music.",
+      "price": "6",
+      "rate": "6",
+      "comment": [
+        { "username": "Tom", "comm": "dfww", "vote": 1 },
+        { "username": "Toma", "comm": "Sve ok", "vote": "1" },
+        { "username": "Mika", "comm": "Losa hrana", "vote": "-1" },
+        { "username": "Pera", "comm": "TTTTTTTTT", "vote": "-1" },
+        { "username": "Laza", "comm": "Dobar...", "vote": "1" },
+        { "username": "Djole", "comm": "", "vote": "1" }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Hotel Stadion",
+      "photo": "https://cdn.ostrovok.ru/t/1024x768/content/56/dc/56dc70976eb59e0003296552de426f272bd33151.jpeg",
+      "description": "Located in the Zemun district of Belgrade, Hotel Stadion offers an a la carte restaurant. Free Wi-Fi access is available. All rooms are air-conditioned and come with a seating area and cable TV. Featuring a shower, private bathrooms also come with free toiletries and towels.",
+      "price": "1",
+      "rate": "3",
+      "comment": [
+        { "username": "Tom", "comm": "dfffwwwwwww", "vote": 1 },
+        { "username": "Mika", "comm": "TTTT     TTTTT", "vote": "-1" },
+        { "username": "Toma", "comm": "ruzan", "vote": "-1" },
+        { "username": "Pera", "comm": "TTTTTTTTT", "vote": "1" }
+      ]
+    }
+  ]
+}

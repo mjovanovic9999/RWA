@@ -1,0 +1,64 @@
+label {
+  font-size: large;
+}
+label fa-icon {
+  color: #fdcc0d;
+}
+
+.Data {
+  width: 47%;
+  height: 60%;
+
+  float: right;
+  font-size: large;
+  text-overflow: ellipsis;
+  overflow: auto;
+  padding-top: 1%;
+  padding-right: 1%;
+}
+
+Img {
+  margin-left: 1%;
+  width: 50%;
+  height: 50%;
+
+  float: left;
+
+  border: 1px solid grey;
+}
+
+pre,
+h3 {
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+ // background-color: ;
+  padding-top: 1%;
+  font-size: x-large;
+}
+
+.Container {
+  border: 1px solid grey;
+  width: 65vw;
+
+  border: solid 1px #555;
+  background-color: #888888;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 10px -0px 5px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+  border-radius: 25px;
+}
+
+.Comments {
+  padding: 1%;
+  padding-top: 0%;
+  text-overflow: ellipsis;
+  overflow: auto;
+
+  width: 99%;
+}
+
+h3 {
+  text-align: center;
+}

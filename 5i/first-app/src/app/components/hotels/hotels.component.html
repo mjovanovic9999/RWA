@@ -1,0 +1,28 @@
+<div class="Container" *ngIf="hotelData">
+  <div>
+    <h3>{{ hotelData.name }}</h3>
+    <div class="Img"><img src="{{ hotelData.photo }}" /></div>
+    <div class="Data">
+      <div>{{ hotelData.description }}</div>
+
+      <div>
+        <label>
+          <pre>Rating:                 {{ (hotelData.rate)}} <fa-icon [icon]="iconRate"> </fa-icon> </pre>
+        </label>
+      </div>
+      <div>
+        <label>
+          <pre>Price rating:         {{hotelData.price}} <fa-icon [icon]="iconPrice"> </fa-icon> </pre>
+        </label>
+      </div>
+      <div>
+        <label>
+          <pre>User vote:    {{ numberUpVote }} <fa-icon [icon]="iconUpVote"> </fa-icon> {{ numberDownVote }} <fa-icon [icon]="iconDownVote"></fa-icon> </pre>
+        </label>
+      </div>
+    </div>
+    <div class="Comments">
+      <pre>{{ commentData }}</pre>
+    </div>
+  </div>
+</div>
